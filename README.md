@@ -3,6 +3,8 @@
  
 -Control Flow Graph
 Фотографија од control flow graph-ot
+![SiLab2Diagram](https://user-images.githubusercontent.com/49729430/171286624-21c1ea57-03e9-47c8-8cf3-5e8303887a31.png)
+
 
 -Цикломатска комплексност
 V(G) = E - N + 2, E=38, N=8 V(G) = 32
